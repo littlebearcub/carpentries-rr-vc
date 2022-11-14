@@ -18,8 +18,7 @@ Follow along with your instructor and perform these steps:
 4. In the details write "Tips to organizing research".<br>
 5. Click the initiate a README.md file option. <br><br>
 
-> README.md: A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.<br>
-
+> README.md: A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.<br><br>
 6. Select to make the repository public.
 ![Screenshot to create a new GitHub Repository and select its settings](/carpentries-rr-vc/assets/img/rr-vc-2-2.png)
 
